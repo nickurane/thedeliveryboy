@@ -1,0 +1,58 @@
+
+.heading
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:80px;
+   outline-color: darkgreen;
+    position: relative;
+}
+.center
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.login_i
+{
+    height:80px;
+    width:80px;
+    border-radius: 50%;
+    
+}
+.carousel-inner
+{
+    height:200px;
+    width: 88vw;
+  margin-left: 0px;
+ 
+}
+.image_c
+{
+    height:200px;
+    width:100%;
+    
+    
+}
+
+.img
+{
+   
+    height:auto;
+    width:100%;
+
+}
+.elements
+{
+   
+    height:auto;
+    width:100%;
+   
+   
+}
+.logo
+{
+    height:80px;
+    width:80px;
+    border-radius: 50%;
+}
