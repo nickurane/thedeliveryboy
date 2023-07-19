@@ -19,12 +19,12 @@
                     <form>
                         <div class="form-group">
                             <label for="exampleInputEmail1">Email address/username</label>
-                             <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Your email">
+                             <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter  emailId/Username">
                              
                         </div>
                         <div class="form-group">
                              <label for="exampleInputPassword1">Password</label>
-                             <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Enter Your Password">
+                             <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Enter  Password">
                          </div>
                         <div class="text-center my-2">
                             <button type="" class="btn btn-primary btn-sm">Login</button>
